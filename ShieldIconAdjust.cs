@@ -1,6 +1,7 @@
 ﻿// using System.Collections;
 // using System.Collections.Generic;
 using UnityEngine;
+//new comment
 public class ShieldIconAdjust : MonoBehaviour {
 
 	// Use this for initialization
