@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ccd5403a93fc08e45af382b95825b7b4
+timeCreated: 1508985862
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bolt: {fileID: 1265196651827220, guid: 624726d636c7c452e9bf07ef3b9ce3b4, type: 2}
+  - rb2d: {instanceID: 0}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
