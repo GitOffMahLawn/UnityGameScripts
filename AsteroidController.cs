@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 // using System.Collections.Generic;
 using UnityEngine;
-//Comment
 public class AsteroidController : MonoBehaviour {
 
     // Public variables:
