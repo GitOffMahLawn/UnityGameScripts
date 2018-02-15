@@ -1,7 +1,7 @@
 ﻿// using System.Collections;
 // using System.Collections.Generic;
 using UnityEngine;
-
+//Some comment
 public class BackgroundScroller : MonoBehaviour {
 
     public float speed;

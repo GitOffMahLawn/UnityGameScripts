@@ -1,7 +1,7 @@
 ﻿// using System.Collections;
 // using System.Collections.Generic;
 using UnityEngine;
-
+//Some other comment
 public class BarracudaBoltController : MonoBehaviour
 {
 
