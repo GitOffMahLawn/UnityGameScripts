@@ -227,4 +227,3 @@ public class AsteroidChunkController : MonoBehaviour {
 			Quaternion.identity);
 	}
 }
-//Hello
