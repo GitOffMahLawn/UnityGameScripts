@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 // using System.Collections.Generic;
 using UnityEngine;
-
+//comment
 public class AsteroidChunkController : MonoBehaviour {
 
 	// Public variables:
